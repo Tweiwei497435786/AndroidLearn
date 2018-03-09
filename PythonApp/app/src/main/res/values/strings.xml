@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PythonApp</string>
+    <string name="title_activity_display_item">DisplayItemActivity</string>
+    <string name="title_activity_dispaly_item">DispalyItemActivity</string>
+</resources>
